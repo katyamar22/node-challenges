@@ -1,0 +1,62 @@
+[
+    {
+        "employeeID": 1,
+        "name": "Sophia Johnson",
+        "salary": 55000,
+        "department": "Marketing"
+    },
+    {
+        "employeeID": 2,
+        "name": "Ethan Rodriguez",
+        "salary": 60000,
+        "department": "Human Resources"
+    },
+    {
+        "employeeID": 3,
+        "name": "Ava Smith",
+        "salary": 70000,
+        "department": "Sales"
+    },
+    {
+        "employeeID": 4,
+        "name": "Noah Williams",
+        "salary": 65000,
+        "department": "Finance"
+    },
+    {
+        "employeeID": 5,
+        "name": "Isabella Martinez",
+        "salary": 58000,
+        "department": "Customer Service"
+    },
+    {
+        "employeeID": 6,
+        "name": "Liam Brown",
+        "salary": 62000,
+        "department": "Project Manager"
+    },
+    {
+        "employeeID": 7,
+        "name": "Olivia Taylor",
+        "salary": 57000,
+        "department": "Finance"
+    },
+    {
+        "employeeID": 8,
+        "name": "Lucas Anderson",
+        "salary": 68000,
+        "department": "IT"
+    },
+    {
+        "employeeID": 9,
+        "name": "Mia Garcia",
+        "salary": 63000,
+        "department": "Administration"
+    },
+    {
+        "employeeID": 10,
+        "name": "Elijah Hernandez",
+        "salary": 75000,
+        "department": "Engineering"
+    }  
+]
