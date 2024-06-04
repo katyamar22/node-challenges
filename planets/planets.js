@@ -16,3 +16,4 @@ fs.readFile(filePath, 'utf8', (err, data) => {
 
   planets.forEach(planet => console.log(planet));
 });
+
